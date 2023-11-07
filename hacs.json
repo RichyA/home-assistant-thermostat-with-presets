@@ -1,0 +1,8 @@
+{
+    "name": "Thermostat with Presets",
+    "filename": "thermostat_with_presets.zip",
+    "hide_default_branch": true,
+    "homeassistant": "2023.11.0",
+    "render_readme": true,
+    "zip_release": true
+}

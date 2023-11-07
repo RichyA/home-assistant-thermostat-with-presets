@@ -1,0 +1,12 @@
+{
+  "domain": "thermostat_with_presets",
+  "name": "Thermostat with Presets",
+  "codeowners": [
+    "@RichyA"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/RichyA/home-assistant-thermostat-with-presets",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/RichyA/home-assistant-thermostat-with-presets/issues",
+  "version": "0.0.0"
+}
